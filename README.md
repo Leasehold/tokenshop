@@ -1,2 +1,2 @@
 # tokenshop
-A node to allow anyone to sell Lisk-based tokens in exchange for fiat currency.
+A node which allows anyone to sell Lisk-based or Leasehold-based tokens in exchange for fiat currency.
